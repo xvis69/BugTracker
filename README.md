@@ -3,7 +3,7 @@
 </p>
 
 # IPCams Bug & Feature Tracker
-Welcome to the IPCams bug & feature tracker. Help improve IPCams by filing a bug report or feature request.
+Welcome to the IPCams bug & feature tracker. Technical support is not available, but your feedback is welcome and apprecatied. I will try to read and consider every bug report and feature request, but I can’t guarantee a response to them all. Thanks for understanding.
 
 ### Bug Reports
 [File new report](https://github.com/IPCams/BugTracker/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
